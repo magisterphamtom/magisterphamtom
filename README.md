@@ -1,3 +1,5 @@
+<p align="center"><img src="images/banniere.png" alt="magisterphamtom — modules et systèmes Foundry VTT" width="100%"></p>
+
 # Bonjour, je suis magisterphamtom 🎲
 
 Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry VTT** (v13 / v14), surtout pour L'Appel de Cthulhu et D&D 5e.
