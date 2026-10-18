@@ -69,7 +69,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/handout-ping-viewer"><img src="images/modules/handout-ping-viewer.png" alt="Handout Ping Viewer" width="100%"></a><br><sub>Zoom, déplacement et vue partagée · <a href="https://github.com/magisterphamtom/handout-ping-viewer/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%"></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/messages-secrets"><img src="images/modules/messages-secrets.png" alt="Messages secrets" width="100%"></a><br><sub>Joueurs et Gardien se parlent en privé, en six habillages · <a href="https://github.com/magisterphamtom/messages-secrets/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 </table>
 
