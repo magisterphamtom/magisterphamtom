@@ -10,49 +10,79 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 
 ## 🐙 L'Appel de Cthulhu 7e (CoC7)
 
-| Nom | Ce que ça fait | Installer |
-|---|---|---|
-| [**Cartes de chat thématiques**](https://github.com/magisterphamtom/coc7-cartes-chat) | Habille le chat et les jets : années 20, New York, Montagnes Hallucinées, moderne. | [manifeste](https://github.com/magisterphamtom/coc7-cartes-chat/releases/latest/download/module.json) |
-| [**Fiches investigateur thématiques**](https://github.com/magisterphamtom/coc7-fiches-thematiques) | Les mêmes thèmes sur la fiche investigateur. | [manifeste](https://github.com/magisterphamtom/coc7-fiches-thematiques/releases/latest/download/module.json) |
-| [**Token Action HUD – Thèmes Cthulhu**](https://github.com/magisterphamtom/tah-annees-20) | Cinq styles pour Token Action HUD (Art Déco, New York…). | [manifeste](https://github.com/magisterphamtom/tah-annees-20/releases/latest/download/module.json) |
-| [**Combat Cthulhu HUD**](https://github.com/magisterphamtom/combatcthud) | HUD de combat : initiative, PV/PM/SAN/Chance, actions rapides (portage v14 traduit). | [manifeste](https://github.com/magisterphamtom/combatcthud/releases/latest/download/module.json) |
-| [**Roll Ensemble — CoC7**](https://github.com/magisterphamtom/roll-ensemble-coc7) | Jets de groupe animés avec les règles CoC7. | [manifeste](https://github.com/magisterphamtom/roll-ensemble-coc7/releases/latest/download/module.json) |
-| [**Suivi de Chance du groupe**](https://github.com/magisterphamtom/coc7-luck-tracker) | La Chance de tous les investigateurs dans une fenêtre. | [manifeste](https://github.com/magisterphamtom/coc7-luck-tracker/releases/latest/download/module.json) |
-| [**Suivi de Santé Mentale du groupe**](https://github.com/magisterphamtom/coc7-san-tracker) | La SAN de tous les investigateurs dans une fenêtre. | [manifeste](https://github.com/magisterphamtom/coc7-san-tracker/releases/latest/download/module.json) |
-| [**Suivi des Bonds du groupe**](https://github.com/magisterphamtom/coc7-bonds-tracker) | Les Bonds (Liens) de tous les investigateurs. | [manifeste](https://github.com/magisterphamtom/coc7-bonds-tracker/releases/latest/download/module.json) |
-| [**Suivi de Poursuites**](https://github.com/magisterphamtom/coc7-chase-tracker) | Tableau de poursuite à pied ou en voiture. | [manifeste](https://github.com/magisterphamtom/coc7-chase-tracker/releases/latest/download/module.json) |
-| [**Bascule d'époque**](https://github.com/magisterphamtom/coc7-bascule-epoque) | Un clic pour passer la table de 1933 à 2025-2026 et retour. | [manifeste](https://github.com/magisterphamtom/coc7-bascule-epoque/releases/latest/download/module.json) |
-| [**Distribution d'aides de jeu**](https://github.com/magisterphamtom/distribution-aides-de-jeu) | Remettre une aide de jeu : enveloppe à cachet de cire (1933) ou mail avec pièce jointe (2026). | [manifeste](https://github.com/magisterphamtom/distribution-aides-de-jeu/releases/latest/download/module.json) |
-| [**Conversations – portraits des PNJ**](https://github.com/magisterphamtom/conversations-pnj) | Les portraits des PNJ d'une scène, celui qui parle mis en avant. | [manifeste](https://github.com/magisterphamtom/conversations-pnj/releases/latest/download/module.json) |
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-cartes-chat"><img src="images/modules/coc7-cartes-chat.png" alt="Cartes de chat thématiques" width="100%"></a><br><sub>Le chat et les jets aux couleurs de l'époque · <a href="https://github.com/magisterphamtom/coc7-cartes-chat/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-fiches-thematiques"><img src="images/modules/coc7-fiches-thematiques.png" alt="Fiches investigateur thématiques" width="100%"></a><br><sub>Années 20, New York, Montagnes Hallucinées, moderne · <a href="https://github.com/magisterphamtom/coc7-fiches-thematiques/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/tah-annees-20"><img src="images/modules/tah-annees-20.png" alt="Token Action HUD · Thèmes" width="100%"></a><br><sub>Cinq styles pour Token Action HUD · <a href="https://github.com/magisterphamtom/tah-annees-20/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/combatcthud"><img src="images/modules/combatcthud.png" alt="Combat Cthulhu HUD" width="100%"></a><br><sub>Initiative, PV, SAN, actions rapides · <a href="https://github.com/magisterphamtom/combatcthud/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/roll-ensemble-coc7"><img src="images/modules/roll-ensemble-coc7.png" alt="Roll Ensemble" width="100%"></a><br><sub>Jets de groupe animés · <a href="https://github.com/magisterphamtom/roll-ensemble-coc7/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-luck-tracker"><img src="images/modules/coc7-luck-tracker.png" alt="Suivi de Chance" width="100%"></a><br><sub>La Chance du groupe en un coup d'œil · <a href="https://github.com/magisterphamtom/coc7-luck-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-san-tracker"><img src="images/modules/coc7-san-tracker.png" alt="Suivi de Santé Mentale" width="100%"></a><br><sub>La SAN de tous les investigateurs · <a href="https://github.com/magisterphamtom/coc7-san-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-bonds-tracker"><img src="images/modules/coc7-bonds-tracker.png" alt="Suivi des Bonds" width="100%"></a><br><sub>Les liens qui retiennent les investigateurs · <a href="https://github.com/magisterphamtom/coc7-bonds-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-chase-tracker"><img src="images/modules/coc7-chase-tracker.png" alt="Suivi de Poursuites" width="100%"></a><br><sub>À pied ou en voiture, la jauge de poursuite · <a href="https://github.com/magisterphamtom/coc7-chase-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-bascule-epoque"><img src="images/modules/coc7-bascule-epoque.png" alt="Bascule d'époque" width="100%"></a><br><sub>De 1933 à aujourd'hui en un clic · <a href="https://github.com/magisterphamtom/coc7-bascule-epoque/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/distribution-aides-de-jeu"><img src="images/modules/distribution-aides-de-jeu.png" alt="Distribution d'aides de jeu" width="100%"></a><br><sub>Enveloppe scellée ou mail avec pièce jointe · <a href="https://github.com/magisterphamtom/distribution-aides-de-jeu/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/conversations-pnj"><img src="images/modules/conversations-pnj.png" alt="Conversations · portraits des PNJ" width="100%"></a><br><sub>Qui parle, à toute la table · <a href="https://github.com/magisterphamtom/conversations-pnj/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+</table>
 
 ## 🐉 Donjons & Dragons 5e
 
-| Nom | Ce que ça fait | Installer |
-|---|---|---|
-| [**Critiques Épiques**](https://github.com/magisterphamtom/critiques-epiques) | Effet plein écran fantasy sur les réussites et échecs critiques. | [manifeste](https://github.com/magisterphamtom/critiques-epiques/releases/latest/download/module.json) |
-| [**Distribution d'aides de jeu — Fantasy**](https://github.com/magisterphamtom/distribution-aides-fantasy) | Remettre une aide de jeu : un parchemin scellé qui se déroule. | [manifeste](https://github.com/magisterphamtom/distribution-aides-fantasy/releases/latest/download/module.json) |
-| [**Licorne d'Abondance – Aides de jeu**](https://github.com/magisterphamtom/licorne-dabondance-free) | PNJ, scènes et tables gratuites pour le scénario Licorne d'Abondance. | [manifeste](https://github.com/magisterphamtom/licorne-dabondance-free/releases/latest/download/module.json) |
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/critiques-epiques"><img src="images/modules/critiques-epiques.png" alt="Critiques Épiques" width="100%"></a><br><sub>Le 20 naturel mérite un spectacle · <a href="https://github.com/magisterphamtom/critiques-epiques/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/distribution-aides-fantasy"><img src="images/modules/distribution-aides-fantasy.png" alt="Distribution d'aides de jeu · Fantasy" width="100%"></a><br><sub>Un parchemin scellé qui se déroule · <a href="https://github.com/magisterphamtom/distribution-aides-fantasy/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/licorne-dabondance-free"><img src="images/modules/licorne-dabondance-free.png" alt="Licorne d'Abondance · Aides de jeu" width="100%"></a><br><sub>PNJ, scènes et tables gratuites · <a href="https://github.com/magisterphamtom/licorne-dabondance-free/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ## 🧰 Outils pour tous les systèmes
 
-| Nom | Ce que ça fait | Installer |
-|---|---|---|
-| [**Barres de Macros Libres**](https://github.com/magisterphamtom/barres-macros-libres) | Jusqu'à 5 barres de macros flottantes, déplaçables partout. | [manifeste](https://github.com/magisterphamtom/barres-macros-libres/releases/latest/download/module.json) |
-| [**Commandes Stream Deck**](https://github.com/magisterphamtom/commandes-stream-deck) | Piloter musique, bruitages et outils depuis un Stream Deck. | [manifeste](https://github.com/magisterphamtom/commandes-stream-deck/releases/latest/download/module.json) |
-| [**Speaking Status**](https://github.com/magisterphamtom/speaking-status) | Montre quel joueur parle au micro (version réparée v13/v14). | [manifeste](https://github.com/magisterphamtom/speaking-status/releases/latest/download/module.json) |
-| [**Masquer les dossiers de journaux**](https://github.com/magisterphamtom/dossiers-caches) | Cacher d'un clic droit les dossiers inutiles de l'onglet Journaux. | [manifeste](https://github.com/magisterphamtom/dossiers-caches/releases/latest/download/module.json) |
-| [**Taille des jetons à la molette**](https://github.com/magisterphamtom/taille-jeton-molette) | Grossir ou réduire un jeton avec Alt + molette. | [manifeste](https://github.com/magisterphamtom/taille-jeton-molette/releases/latest/download/module.json) |
-| [**Lecteur Canva**](https://github.com/magisterphamtom/lecteur-canva) | Afficher un tableau Canva (timeline, handouts) dans Foundry. | [manifeste](https://github.com/magisterphamtom/lecteur-canva/releases/latest/download/module.json) |
-| [**Handout Ping Viewer**](https://github.com/magisterphamtom/handout-ping-viewer) | Zoom, déplacement et vue forcée sur les images partagées. | [manifeste](https://github.com/magisterphamtom/handout-ping-viewer/releases/latest/download/module.json) |
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/barres-macros-libres"><img src="images/modules/barres-macros-libres.png" alt="Barres de Macros Libres" width="100%"></a><br><sub>Jusqu'à cinq barres flottantes · <a href="https://github.com/magisterphamtom/barres-macros-libres/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/commandes-stream-deck"><img src="images/modules/commandes-stream-deck.png" alt="Commandes Stream Deck" width="100%"></a><br><sub>Musique, bruitages et outils au bout des doigts · <a href="https://github.com/magisterphamtom/commandes-stream-deck/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/speaking-status"><img src="images/modules/speaking-status.png" alt="Speaking Status" width="100%"></a><br><sub>Qui parle au micro · <a href="https://github.com/magisterphamtom/speaking-status/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/dossiers-caches"><img src="images/modules/dossiers-caches.png" alt="Masquer les dossiers" width="100%"></a><br><sub>Un onglet Journaux sans encombrement · <a href="https://github.com/magisterphamtom/dossiers-caches/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/taille-jeton-molette"><img src="images/modules/taille-jeton-molette.png" alt="Taille des jetons à la molette" width="100%"></a><br><sub>Alt + molette, et c'est réglé · <a href="https://github.com/magisterphamtom/taille-jeton-molette/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/lecteur-canva"><img src="images/modules/lecteur-canva.png" alt="Lecteur Canva" width="100%"></a><br><sub>Vos tableaux Canva dans Foundry · <a href="https://github.com/magisterphamtom/lecteur-canva/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/handout-ping-viewer"><img src="images/modules/handout-ping-viewer.png" alt="Handout Ping Viewer" width="100%"></a><br><sub>Zoom, déplacement et vue partagée · <a href="https://github.com/magisterphamtom/handout-ping-viewer/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ## 📜 Systèmes de jeu
 
-| Nom | Ce que ça fait | Installer |
-|---|---|---|
-| [**Arkéos (non officiel)**](https://github.com/magisterphamtom/arkeos) | Pulp des années 1930, EW-System. | [manifeste](https://github.com/magisterphamtom/arkeos/releases/latest/download/system.json) |
-| [**Les Chants de Tindalos**](https://github.com/magisterphamtom/chants-de-tindalos) | Horreur lovecraftienne, système PLP (accord Walpurgis). | [manifeste](https://raw.githubusercontent.com/magisterphamtom/chants-de-tindalos/main/system.json) |
-| [**Tranchons & Traquons**](https://github.com/magisterphamtom/tranchons-et-traquons) | Médiéval-fantastique old-school en 2D6. | [manifeste](https://github.com/magisterphamtom/tranchons-et-traquons/releases/latest/download/system.json) |
-| [**Dieux Ennemis (non officiel)**](https://github.com/magisterphamtom/dieux-ennemis-nonofficiel) | Héros, dieux et jets de risque. | [manifeste](https://github.com/magisterphamtom/dieux-ennemis-nonofficiel/releases/latest/download/system.json) |
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/arkeos"><img src="images/modules/arkeos.png" alt="Arkéos" width="100%"></a><br><sub>Aventure pulp des années 1930 · <a href="https://github.com/magisterphamtom/arkeos/releases/latest/download/system.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/chants-de-tindalos"><img src="images/modules/chants-de-tindalos.png" alt="Les Chants de Tindalos" width="100%"></a><br><sub>Horreur lovecraftienne, système PLP · <a href="https://raw.githubusercontent.com/magisterphamtom/chants-de-tindalos/main/system.json">manifeste</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/tranchons-et-traquons"><img src="images/modules/tranchons-et-traquons.png" alt="Tranchons & Traquons" width="100%"></a><br><sub>Médiéval-fantastique old-school en 2D6 · <a href="https://github.com/magisterphamtom/tranchons-et-traquons/releases/latest/download/system.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/dieux-ennemis-nonofficiel"><img src="images/modules/dieux-ennemis-nonofficiel.png" alt="Dieux Ennemis" width="100%"></a><br><sub>Des héros face aux dieux · <a href="https://github.com/magisterphamtom/dieux-ennemis-nonofficiel/releases/latest/download/system.json">manifeste</a></sub></td>
+</tr>
+</table>
 
 ---
 Une question, un bug ? Ouvrez une *issue* sur le dépôt du module concerné.
