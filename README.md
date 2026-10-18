@@ -4,6 +4,8 @@
 
 Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry VTT** (v13 / v14), surtout pour L'Appel de Cthulhu et D&D 5e.
 
+> 🤖 **Transparence :** les idées, la conception, les choix et les tests sont les miens ; le code est écrit avec l'assistance de l'IA **Claude** (Anthropic).
+
 **Installer :** dans Foundry, *Modules complémentaires* (ou *Systèmes de jeu*) › *Installer* › coller le lien **manifeste** en bas de la fenêtre.
 
 > *GM and streamer making Foundry VTT modules and game systems (mostly in French). Paste the manifest link into Foundry's install dialog.*
