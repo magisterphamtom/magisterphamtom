@@ -88,6 +88,9 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/tranchons-et-traquons"><img src="images/modules/tranchons-et-traquons.png" alt="Tranchons & Traquons" width="100%"></a><br><sub>Médiéval-fantastique old-school en 2D6 · <a href="https://github.com/magisterphamtom/tranchons-et-traquons/releases/latest/download/system.json">manifeste</a></sub></td>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/dieux-ennemis-nonofficiel"><img src="images/modules/dieux-ennemis-nonofficiel.png" alt="Dieux Ennemis" width="100%"></a><br><sub>Des héros face aux dieux · <a href="https://github.com/magisterphamtom/dieux-ennemis-nonofficiel/releases/latest/download/system.json">manifeste</a></sub></td>
 </tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/ange-du-chaos"><img src="images/modules/ange-du-chaos.png" alt="L'Ange du Chaos" width="100%"></a><br><sub>Dark fantasy, destin et Nexus (XII Singes) · en développement, pas encore de manifeste · <a href="https://github.com/magisterphamtom/ange-du-chaos">dépôt</a></sub></td>
+</tr>
 </table>
 
 ---
