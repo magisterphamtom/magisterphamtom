@@ -36,7 +36,6 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/distribution-aides-de-jeu"><img src="images/modules/distribution-aides-de-jeu.png" alt="Distribution d'aides de jeu" width="100%"></a><br><sub>Enveloppe scellée ou mail avec pièce jointe · <a href="https://github.com/magisterphamtom/distribution-aides-de-jeu/releases/latest/download/module.json">manifeste</a></sub></td>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/conversations-pnj"><img src="images/modules/conversations-pnj.png" alt="Conversations · portraits des PNJ" width="100%"></a><br><sub>Qui parle, à toute la table · <a href="https://github.com/magisterphamtom/conversations-pnj/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%"></td>
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-fenetre-jet"><img src="images/modules/coc7-fenetre-jet.png" alt="Fenêtre de jet thématique" width="100%"></a><br><sub>Le jet aux couleurs de l'époque · <a href="https://github.com/magisterphamtom/coc7-fenetre-jet/releases/latest/download/module.json">manifeste</a></sub></td>
@@ -95,6 +94,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/ange-du-chaos"><img src="images/modules/ange-du-chaos.png" alt="L'Ange du Chaos" width="100%"></a><br><sub>Dark fantasy, destin et Nexus (XII Singes) · en développement, pas encore de manifeste · <a href="https://github.com/magisterphamtom/ange-du-chaos">dépôt</a></sub></td>
+<td width="50%"></td>
 </tr>
 </table>
 
