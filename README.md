@@ -39,7 +39,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-fenetre-jet"><img src="images/modules/coc7-fenetre-jet.png" alt="Fenêtre de jet thématique" width="100%"></a><br><sub>Le jet aux couleurs de l'époque · <a href="https://github.com/magisterphamtom/coc7-fenetre-jet/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%"></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-conteneurs"><img src="images/modules/coc7-conteneurs.png" alt="Conteneurs CoC7" width="100%"></a><br><sub>Sacs, valises et poupées russes à glisser-déposer · <a href="https://github.com/magisterphamtom/coc7-conteneurs/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 </table>
 
