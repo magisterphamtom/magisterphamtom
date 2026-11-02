@@ -98,7 +98,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/ange-du-chaos"><img src="images/modules/ange-du-chaos.png" alt="L'Ange du Chaos" width="100%"></a><br><sub>Dark fantasy, destin et Nexus (XII Singes) · en développement, pas encore de manifeste · <a href="https://github.com/magisterphamtom/ange-du-chaos">dépôt</a></sub></td>
-<td width="50%"></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/miaulements-ulthar"><img src="images/modules/miaulements-ulthar.png" alt="Les Miaulements d'Ulthar" width="100%"></a><br><sub>Des Chats face à l'horreur lovecraftienne · <a href="https://github.com/magisterphamtom/miaulements-ulthar/releases/latest/download/system.json">manifeste</a></sub></td>
 </tr>
 </table>
 
