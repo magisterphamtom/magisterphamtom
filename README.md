@@ -83,6 +83,10 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/chat-icones-visible"><img src="images/modules/chat-icones-visible.png" alt="Chat : icônes visibles" width="100%"></a><br><sub>Plus aucune icône hors cadre sous le chat · <a href="https://github.com/magisterphamtom/chat-icones-visible/releases/latest/download/module.json">manifeste</a></sub></td>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/resume-hebdo"><img src="images/modules/resume-hebdo.png" alt="Résumé hebdomadaire" width="100%"></a><br><sub>Le récap de la séance s'ouvre chez les joueurs · <a href="https://github.com/magisterphamtom/resume-hebdo/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/carrousel-combat"><img src="images/modules/carrousel-combat.png" alt="Carrousel de Combat" width="100%"></a><br><sub>L'initiative en cartes, un thème pour chaque monde · <a href="https://github.com/magisterphamtom/carrousel-combat/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ## 📜 Systèmes de jeu
