@@ -43,6 +43,10 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/critiques-du-mythe"><img src="images/modules/critiques-du-mythe.png" alt="Critiques du Mythe" width="100%"></a><br><sub>Le 01 et la maladresse en plein écran · <a href="https://github.com/magisterphamtom/critiques-du-mythe/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/fiches-en-ligne"><img src="images/modules/fiches-en-ligne.png" alt="Fiches en ligne" width="100%"></a><br><sub>Chaque joueur retrouve sa fiche en dehors de Foundry · en développement, pas encore de manifeste · <a href="https://github.com/magisterphamtom/fiches-en-ligne">dépôt</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="images/modules/fiches-en-ligne-site.png" alt="Fiches en ligne · le site" width="100%"><br><sub>Le site compagnon qui affiche les fiches, imprimable en PDF · dépôt privé</sub></td>
 <td width="50%"></td>
 </tr>
 </table>
