@@ -47,7 +47,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><img src="images/modules/fiches-en-ligne-site.png" alt="Fiches en ligne · le site" width="100%"><br><sub>Le site compagnon qui affiche les fiches, imprimable en PDF · dépôt privé</sub></td>
-<td width="50%"></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-resume-epoques"><img src="images/modules/coc7-resume-epoques.png" alt="Résumés des époques" width="100%"></a><br><sub>Un fil de résumés par époque, en recto-verso · <a href="https://github.com/magisterphamtom/coc7-resume-epoques/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 </table>
 
