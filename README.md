@@ -23,30 +23,25 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/roll-ensemble-coc7"><img src="images/modules/roll-ensemble-coc7.png" alt="Roll Ensemble" width="100%"></a><br><sub>Jets de groupe animés · <a href="https://github.com/magisterphamtom/roll-ensemble-coc7/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-luck-tracker"><img src="images/modules/coc7-luck-tracker.png" alt="Suivi de Chance" width="100%"></a><br><sub>La Chance du groupe en un coup d'œil · <a href="https://github.com/magisterphamtom/coc7-luck-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-suivi-groupe"><img src="images/modules/coc7-suivi-groupe.png" alt="Suivi du groupe" width="100%"></a><br><sub>Chance, Santé mentale, Liens et Poursuite en onglets · <a href="https://github.com/magisterphamtom/coc7-suivi-groupe/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-san-tracker"><img src="images/modules/coc7-san-tracker.png" alt="Suivi de Santé Mentale" width="100%"></a><br><sub>La SAN de tous les investigateurs · <a href="https://github.com/magisterphamtom/coc7-san-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-bonds-tracker"><img src="images/modules/coc7-bonds-tracker.png" alt="Suivi des Bonds" width="100%"></a><br><sub>Les liens qui retiennent les investigateurs · <a href="https://github.com/magisterphamtom/coc7-bonds-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-chase-tracker"><img src="images/modules/coc7-chase-tracker.png" alt="Suivi de Poursuites" width="100%"></a><br><sub>À pied ou en voiture, la jauge de poursuite · <a href="https://github.com/magisterphamtom/coc7-chase-tracker/releases/latest/download/module.json">manifeste</a></sub></td>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-bascule-epoque"><img src="images/modules/coc7-bascule-epoque.png" alt="Bascule d'époque" width="100%"></a><br><sub>De 1933 à aujourd'hui en un clic · <a href="https://github.com/magisterphamtom/coc7-bascule-epoque/releases/latest/download/module.json">manifeste</a></sub></td>
-</tr>
-<tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/distribution-aides-de-jeu"><img src="images/modules/distribution-aides-de-jeu.png" alt="Distribution d'aides de jeu" width="100%"></a><br><sub>Enveloppe scellée ou mail avec pièce jointe · <a href="https://github.com/magisterphamtom/distribution-aides-de-jeu/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/conversations-pnj"><img src="images/modules/conversations-pnj.png" alt="Conversations · portraits des PNJ" width="100%"></a><br><sub>Qui parle, à toute la table · <a href="https://github.com/magisterphamtom/conversations-pnj/releases/latest/download/module.json">manifeste</a></sub></td>
-</tr>
-<tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-fenetre-jet"><img src="images/modules/coc7-fenetre-jet.png" alt="Fenêtre de jet thématique" width="100%"></a><br><sub>Le jet aux couleurs de l'époque · <a href="https://github.com/magisterphamtom/coc7-fenetre-jet/releases/latest/download/module.json">manifeste</a></sub></td>
+</tr>
+<tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-conteneurs"><img src="images/modules/coc7-conteneurs.png" alt="Conteneurs CoC7" width="100%"></a><br><sub>Sacs, valises et poupées russes à glisser-déposer · <a href="https://github.com/magisterphamtom/coc7-conteneurs/releases/latest/download/module.json">manifeste</a></sub></td>
-</tr>
-<tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/critiques-du-mythe"><img src="images/modules/critiques-du-mythe.png" alt="Critiques du Mythe" width="100%"></a><br><sub>Le 01 et la maladresse en plein écran · <a href="https://github.com/magisterphamtom/critiques-du-mythe/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/fiches-en-ligne"><img src="images/modules/fiches-en-ligne.png" alt="Fiches en ligne" width="100%"></a><br><sub>Chaque joueur retrouve sa fiche en dehors de Foundry · <a href="https://github.com/magisterphamtom/fiches-en-ligne/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/fiches-en-ligne"><img src="images/modules/fiches-en-ligne.png" alt="Fiches en ligne" width="100%"></a><br><sub>Chaque joueur retrouve sa fiche en dehors de Foundry · <a href="https://github.com/magisterphamtom/fiches-en-ligne/releases/latest/download/module.json">manifeste</a></sub></td>
 <td width="50%" align="center"><img src="images/modules/fiches-en-ligne-site.png" alt="Fiches en ligne · le site" width="100%"><br><sub>Le site compagnon qui affiche les fiches, imprimable en PDF · dépôt privé</sub></td>
+</tr>
+<tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-resume-epoques"><img src="images/modules/coc7-resume-epoques.png" alt="Résumés des époques" width="100%"></a><br><sub>Un fil de résumés par époque, en recto-verso · <a href="https://github.com/magisterphamtom/coc7-resume-epoques/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 </table>
