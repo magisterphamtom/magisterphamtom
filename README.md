@@ -14,7 +14,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-cartes-chat"><img src="images/modules/coc7-cartes-chat.png" alt="Cartes de chat thématiques" width="100%"></a><br><sub>Le chat et les jets aux couleurs de l'époque · <a href="https://github.com/magisterphamtom/coc7-cartes-chat/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-cartes-chat"><img src="images/modules/coc7-cartes-chat.png" alt="Cartes de chat thématiques" width="100%"></a><br><sub>Le chat aux couleurs de l'époque, Pousser et Chance sur chaque jet · <a href="https://github.com/magisterphamtom/coc7-cartes-chat/releases/latest/download/module.json">manifeste</a></sub></td>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-fiches-thematiques"><img src="images/modules/coc7-fiches-thematiques.png" alt="Fiches investigateur thématiques" width="100%"></a><br><sub>Années 20, New York, Montagnes Hallucinées, moderne · <a href="https://github.com/magisterphamtom/coc7-fiches-thematiques/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
@@ -22,7 +22,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/combatcthud"><img src="images/modules/combatcthud.png" alt="Combat Cthulhu HUD" width="100%"></a><br><sub>Initiative, PV, SAN, actions rapides · <a href="https://github.com/magisterphamtom/combatcthud/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/roll-ensemble-coc7"><img src="images/modules/roll-ensemble-coc7.png" alt="Roll Ensemble" width="100%"></a><br><sub>Jets de groupe animés · <a href="https://github.com/magisterphamtom/roll-ensemble-coc7/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/roll-ensemble-coc7"><img src="images/modules/roll-ensemble-coc7.png" alt="Roll Ensemble" width="100%"></a><br><sub>Jets de groupe en bandeau plein écran, thèmes d'époque, Chance et Dice So Nice · <a href="https://github.com/magisterphamtom/roll-ensemble-coc7/releases/latest/download/module.json">manifeste</a></sub></td>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-suivi-groupe"><img src="images/modules/coc7-suivi-groupe.png" alt="Suivi du groupe" width="100%"></a><br><sub>Chance, Santé mentale, Liens et Poursuite en onglets · <a href="https://github.com/magisterphamtom/coc7-suivi-groupe/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-conteneurs"><img src="images/modules/coc7-conteneurs.png" alt="Conteneurs CoC7" width="100%"></a><br><sub>Sacs, valises et poupées russes à glisser-déposer · <a href="https://github.com/magisterphamtom/coc7-conteneurs/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/critiques-du-mythe"><img src="images/modules/critiques-du-mythe.png" alt="Critiques du Mythe" width="100%"></a><br><sub>Le 01 et la maladresse en plein écran · <a href="https://github.com/magisterphamtom/critiques-du-mythe/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/critiques-du-mythe"><img src="images/modules/critiques-du-mythe.png" alt="Critiques du Mythe" width="100%"></a><br><sub>Le 01 et la maladresse en plein écran, aussi pour les jets de groupe · <a href="https://github.com/magisterphamtom/critiques-du-mythe/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/fiches-en-ligne"><img src="images/modules/fiches-en-ligne.png" alt="Fiches en ligne" width="100%"></a><br><sub>Chaque joueur retrouve sa fiche en dehors de Foundry · <a href="https://github.com/magisterphamtom/fiches-en-ligne/releases/latest/download/module.json">manifeste</a></sub></td>
@@ -64,7 +64,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 <table>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/barres-macros-libres"><img src="images/modules/barres-macros-libres.png" alt="Barres de Macros Libres" width="100%"></a><br><sub>Jusqu'à cinq barres flottantes · <a href="https://github.com/magisterphamtom/barres-macros-libres/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/commandes-stream-deck"><img src="images/modules/commandes-stream-deck.png" alt="Commandes Stream Deck" width="100%"></a><br><sub>Musique, bruitages et outils au bout des doigts · <a href="https://github.com/magisterphamtom/commandes-stream-deck/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/commandes-stream-deck"><img src="images/modules/commandes-stream-deck.png" alt="Commandes Stream Deck" width="100%"></a><br><sub>Musique, bruitages et toutes les macros Outils CoC7 au bout des doigts · <a href="https://github.com/magisterphamtom/commandes-stream-deck/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/speaking-status"><img src="images/modules/speaking-status.png" alt="Speaking Status" width="100%"></a><br><sub>Qui parle au micro · <a href="https://github.com/magisterphamtom/speaking-status/releases/latest/download/module.json">manifeste</a></sub></td>
@@ -72,7 +72,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/taille-jeton-molette"><img src="images/modules/taille-jeton-molette.png" alt="Taille des jetons à la molette" width="100%"></a><br><sub>Alt + molette, et c'est réglé · <a href="https://github.com/magisterphamtom/taille-jeton-molette/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%" align="center"><a href="https://github.com/magisterphamtom/lecteur-canva"><img src="images/modules/lecteur-canva.png" alt="Lecteur Canva" width="100%"></a><br><sub>Vos tableaux Canva dans Foundry · <a href="https://github.com/magisterphamtom/lecteur-canva/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/lecteur-canva"><img src="images/modules/lecteur-canva.png" alt="Lecteur Canva" width="100%"></a><br><sub>Vos tableaux Canva dans Foundry, habillés, zoom à la molette · <a href="https://github.com/magisterphamtom/lecteur-canva/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/handout-ping-viewer"><img src="images/modules/handout-ping-viewer.png" alt="Handout Ping Viewer" width="100%"></a><br><sub>Zoom, déplacement et vue partagée · <a href="https://github.com/magisterphamtom/handout-ping-viewer/releases/latest/download/module.json">manifeste</a></sub></td>
