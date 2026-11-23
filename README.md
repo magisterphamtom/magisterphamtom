@@ -43,6 +43,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/coc7-resume-epoques"><img src="images/modules/coc7-resume-epoques.png" alt="Résumés des époques" width="100%"></a><br><sub>Un fil de résumés par époque, en recto-verso · <a href="https://github.com/magisterphamtom/coc7-resume-epoques/releases/latest/download/module.json">manifeste</a></sub></td>
+<td width="50%" align="center"><img src="images/modules/coc7-accueil-une.png" alt="Accueil « À la une »" width="100%"><br><sub>L'écran d'accueil de ma campagne, façon tableau d'enquête en 1933 et en 2026 · dépôt privé</sub></td>
 </tr>
 </table>
 
