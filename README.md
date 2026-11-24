@@ -56,7 +56,7 @@ Meneur de jeu et streameur, je crée des **modules et des systèmes pour Foundry
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/magisterphamtom/licorne-dabondance-free"><img src="images/modules/licorne-dabondance-free.png" alt="Licorne d'Abondance · Aides de jeu" width="100%"></a><br><sub>PNJ, scènes et tables gratuites · <a href="https://github.com/magisterphamtom/licorne-dabondance-free/releases/latest/download/module.json">manifeste</a></sub></td>
-<td width="50%"></td>
+<td width="50%" align="center"><a href="https://github.com/magisterphamtom/dnd5e-accueil-cercle-de-pierre"><img src="images/modules/dnd5e-accueil-cercle-de-pierre.png" alt="Accueil du Cercle de Pierre" width="100%"></a><br><sub>L'écran d'accueil de ma campagne, en grimoire ou en table de cartographe · <a href="https://github.com/magisterphamtom/dnd5e-accueil-cercle-de-pierre/releases/latest/download/module.json">manifeste</a></sub></td>
 </tr>
 </table>
 
